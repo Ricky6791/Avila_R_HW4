@@ -1,0 +1,12 @@
+Name: Ricardo Avila
+ID: 830323421
+
+Structure of Program:
+File organization: Water.cpp
+Functional organization: 3 classes with inheritance: Grid, Watervehicle, Submarine. Operator overload = for two submarines.
+
+Status: Mostly complete couldn't figure out how to tie shots fired to the submarine and its location. Surfaced acts strange on csegrid but works correctly on my machine
+
+Hardware & platform I used: Intel core i7 with 16GB RAM MacOS
+
+Compile: extract the archive and then from shell run "make". This will create executable hw2 and then run ./hw4
